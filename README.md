@@ -15,35 +15,40 @@
    - Learning Dynamical System Equations from Observed Temporal Measurements. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
 
 
-# 🧠 Project Showcase
+# 🎯 Project Showcase
 
-## 🚀 Adaptive Spatial–Spectral Denoising of Hyperspectral Images
-- **Focus:** Robust deep learning–based HSI denoising with attention-driven spatial–spectral modeling  
-- **Keywords:** Hyperspectral Imaging, Transformer Attention, Image Restoration, Scientific ML  
-- **Highlights:**
-  - Progressive refinement denoising pipeline  
-  - Multi-loss training (MSE, SAM, SSIM)  
-  - Visualization of attention maps & spectral consistency  
-- 🔗 Repo: https://github.com/AL-FHA/HSI_denoising_pipeline
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x180" width="100%" />
+      <h3>Adaptive Spatial–Spectral HSI Denoising</h3>
+      <p>
+        Deep learning–based hyperspectral image denoising with
+        spatial–spectral attention and progressive refinement pipeline.
+      </p>
+      <a href="https://github.com/AL-FHA/HSI_denoising_pipeline">🔗 View Repository</a>
+    </td>
 
----
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x180" width="100%" />
+      <h3>Data-Driven ODE Discovery</h3>
+      <p>
+        Learning governing dynamical system equations from noisy
+        time-series data using sparse regression & scientific ML.
+      </p>
+      <a href="https://github.com/AL-FHA/data_driven_ODE_discovery">🔗 View Repository</a>
+    </td>
 
-## 📊 Learning Dynamical System Equations from Time-Series Data
-- **Focus:** Sparse & data-driven discovery of governing ODEs from noisy measurements  
-- **Keywords:** Scientific Machine Learning, Sparse Regression, System Identification  
-- **Highlights:**
-  - Robustness analysis under real-world noise
-  - Model interpretability & equation-level insights
-  - Comparative study of sparse identification frameworks
-- 🔗 Repo: https://github.com/AL-FHA/data_driven_ODE_discovery
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x180" width="100%" />
+      <h3>Transformer Models for High-Dimensional Data</h3>
+      <p>
+        Representation learning & robustness evaluation across imaging
+        and temporal domains with interpretability focus.
+      </p>
+      <a href="#">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
----
-
-## 🧩 Transformer-Based Modeling for High-Dimensional Data
-- **Focus:** Representation learning & robustness study for transformer models  
-- **Keywords:** High-Dimensional Data, Deep Learning, Representation Learning  
-- **Highlights:**
-  - Experiments across imaging & time-series domains
-  - Emphasis on interpretability and generalization
-- 🔗 Repo: (Coming Soon)
 
