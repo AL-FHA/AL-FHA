@@ -9,10 +9,8 @@ I am an early-career researcher in Computer Science with a focus on machine lear
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 # Currently Working On
-<ul>
-   <li> Adaptive Spatial-Spectral Denoising Of Hyperspectral Images. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
-  <li> Learning Dynamical System Equations from Observed Temporal Measurements. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
-</ul>
+   - Adaptive Spatial-Spectral Denoising Of Hyperspectral Images. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
+   - Learning Dynamical System Equations from Observed Temporal Measurements. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AL-FHA&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
