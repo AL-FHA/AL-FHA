@@ -89,7 +89,7 @@ Learning governing dynamical system equations from noisy time-series
 data using sparse regression.
 </p>
 
-<a href="[https://github.com/AL-FHA/data_driven_ODE_discovery](https://github.com/AL-FHA/data-driven-ode-discovery)">
+<a href="https://github.com/AL-FHA/data-driven-ode-discovery">
 <strong>🔗 View Repository</strong>
 </a>
 
