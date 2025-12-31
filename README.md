@@ -1,5 +1,7 @@
 # About Me:
-I am an early-career researcher in Computer Science with a focus on machine learning, computer<br>vision, and data-driven mathematical modeling. My work involves developing and analyzing deep<br>learning and transformer-based models for applications such as image denoising, early brain tumor<br>detection, and governing-equation discovery from data. I am particularly interested in research at the<br>intersection of computer vision and scientific machine learning, and I am motivated to contribute to<br>both teaching and research through course instruction, student mentoring, and collaborative<br>academic projects.
+- Enthusiastic about machine learning and deep learning, particularly transformer-based models for high-dimensional data.
+- Strong interest in data-driven mathematical modeling, including governing-equation discovery from time-series data.
+- Focused on the intersection of computer vision and scientific machine learning, with emphasis on robustness and interpretability.
 
 
 ## Socials:
@@ -13,8 +15,35 @@ I am an early-career researcher in Computer Science with a focus on machine lear
    - Learning Dynamical System Equations from Observed Temporal Measurements. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
 
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AL-FHA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🧠 Project Showcase
+
+## 🚀 Adaptive Spatial–Spectral Denoising of Hyperspectral Images
+- **Focus:** Robust deep learning–based HSI denoising with attention-driven spatial–spectral modeling  
+- **Keywords:** Hyperspectral Imaging, Transformer Attention, Image Restoration, Scientific ML  
+- **Highlights:**
+  - Progressive refinement denoising pipeline  
+  - Multi-loss training (MSE, SAM, SSIM)  
+  - Visualization of attention maps & spectral consistency  
+- 🔗 Repo: https://github.com/AL-FHA/HSI_denoising_pipeline
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AL-FHA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 Learning Dynamical System Equations from Time-Series Data
+- **Focus:** Sparse & data-driven discovery of governing ODEs from noisy measurements  
+- **Keywords:** Scientific Machine Learning, Sparse Regression, System Identification  
+- **Highlights:**
+  - Robustness analysis under real-world noise
+  - Model interpretability & equation-level insights
+  - Comparative study of sparse identification frameworks
+- 🔗 Repo: https://github.com/AL-FHA/data_driven_ODE_discovery
+
+---
+
+## 🧩 Transformer-Based Modeling for High-Dimensional Data
+- **Focus:** Representation learning & robustness study for transformer models  
+- **Keywords:** High-Dimensional Data, Deep Learning, Representation Learning  
+- **Highlights:**
+  - Experiments across imaging & time-series domains
+  - Emphasis on interpretability and generalization
+- 🔗 Repo: (Coming Soon)
+
