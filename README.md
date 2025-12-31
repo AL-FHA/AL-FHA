@@ -1,5 +1,5 @@
 # About Me:
-- Enthusiastic about machine learning and deep learning, particularly transformer-based models for high-dimensional data.
+- Enthusiastic about machine learning and deep learning.
 - Strong interest in data-driven mathematical modeling, including governing-equation discovery from time-series data.
 - Focused on the intersection of computer vision and scientific machine learning, with emphasis on robustness and interpretability.
 
