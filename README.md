@@ -106,6 +106,11 @@ data using sparse regression.
 <strong>🔗 View Repository</strong>
 </a>
 
+
+</tr>
+
+</tr>
+
 </div>
 </td>
 
@@ -148,9 +153,7 @@ MRI-based brain tumor detection system leveraging convolutional neural networks 
 </div>
 </td>
 
-</tr>
 
-</tr>
 <td width="33%" align="center">
 
 <div style="
