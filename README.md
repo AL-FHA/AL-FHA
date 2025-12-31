@@ -42,7 +42,7 @@
 Adaptive Spatial–Spectral HSI Denoising
 </div>
 
-<img src="https://via.placeholder.com/320x180" 
+<img src="HSI.png" 
      style="border-radius: 14px; width: 100%; margin-top: 6px;" />
 
 <p align="left">
