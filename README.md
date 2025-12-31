@@ -16,7 +16,6 @@
 
 
 # 🎯 Project Showcase
-# 🧠 Project Showcase
 
 <table>
 <tr>
