@@ -40,11 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-# Currently Working On
-   - Adaptive Spatial-Spectral Denoising Of Hyperspectral Images. [Repo](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
-   - Learning Dynamical System Equations from Observed Temporal Measurements. [Repo](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
-
-
 # Project Showcase
 
 <table>
