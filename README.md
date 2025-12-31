@@ -10,8 +10,8 @@ I am an early-career researcher in Computer Science with a focus on machine lear
 
 # Currently Working On
 <ul>
-   <li> [Adaptive Spatial-Spectral Denoising Of Hyperspectral Images](https://github.com/AL-FHA/data_driven_ODE_discovery) </li>
-  <li> [Learning Dynamical System Equations from Observed Temporal Measurements](https://github.com/AL-FHA/data_driven_ODE_discovery) </li>
+   <li> Adaptive Spatial-Spectral Denoising Of Hyperspectral Images. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
+  <li> Learning Dynamical System Equations from Observed Temporal Measurements. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
 </ul>
 
 # GitHub Stats:
