@@ -173,14 +173,14 @@ MRI-based brain tumor detection system leveraging convolutional neural networks 
 Chitter-Chatter
 </div>
 
-<img src="ODE.png" 
+<img src="chitter.png" 
      style="border-radius: 14px; width: 100%; margin-top: 6px;" />
 
 <p align="left">
-A chatting applicaton
+A chatting applicaton developed using flutter.
 </p>
 
-<a href="https://github.com/AL-FHA/data-driven-ode-discovery">
+<a href="https://github.com/whowasif/ChitterChatter-299-project">
 <strong>🔗 View Repository</strong>
 </a>
 
