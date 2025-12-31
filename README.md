@@ -149,6 +149,44 @@ MRI-based brain tumor detection system leveraging convolutional neural networks 
 </td>
 
 </tr>
+
+</tr>
+<td width="33%" align="center">
+
+<div style="
+  border-radius: 18px;
+  padding: 10px;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(6px);
+">
+
+<div style="
+  background: rgba(0,0,0,0.65);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 14px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 8px;
+">
+Chitter-Chatter
+</div>
+
+<img src="ODE.png" 
+     style="border-radius: 14px; width: 100%; margin-top: 6px;" />
+
+<p align="left">
+A chatting applicaton
+</p>
+
+<a href="https://github.com/AL-FHA/data-driven-ode-discovery">
+<strong>🔗 View Repository</strong>
+</a>
+
+</div>
+</td>
+</tr>
 </table>
 
 
