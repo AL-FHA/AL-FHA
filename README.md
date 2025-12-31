@@ -12,10 +12,6 @@ I am an early-career researcher in Computer Science with a focus on machine lear
    - Adaptive Spatial-Spectral Denoising Of Hyperspectral Images. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
    - Learning Dynamical System Equations from Observed Temporal Measurements. [Link](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AL-FHA&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AL-FHA&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-FHA&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AL-FHA&limit=5&theme=dark&combine_all_yearly_contributions=true)
