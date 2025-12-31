@@ -16,39 +16,128 @@
 
 
 # 🎯 Project Showcase
+# 🧠 Project Showcase
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x180" width="100%" />
-      <h3>Adaptive Spatial–Spectral HSI Denoising</h3>
-      <p>
-        Deep learning–based hyperspectral image denoising with
-        spatial–spectral attention and progressive refinement pipeline.
-      </p>
-      <a href="https://github.com/AL-FHA/HSI_denoising_pipeline">🔗 View Repository</a>
-    </td>
+<tr>
 
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x180" width="100%" />
-      <h3>Data-Driven ODE Discovery</h3>
-      <p>
-        Learning governing dynamical system equations from noisy
-        time-series data using sparse regression & scientific ML.
-      </p>
-      <a href="https://github.com/AL-FHA/data_driven_ODE_discovery">🔗 View Repository</a>
-    </td>
+<td width="33%" align="center">
 
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x180" width="100%" />
-      <h3>Transformer Models for High-Dimensional Data</h3>
-      <p>
-        Representation learning & robustness evaluation across imaging
-        and temporal domains with interpretability focus.
-      </p>
-      <a href="#">🔗 View Repository</a>
-    </td>
-  </tr>
+<div style="
+  border-radius: 18px;
+  padding: 10px;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(6px);
+">
+
+<div style="
+  background: rgba(0,0,0,0.65);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 14px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 8px;
+">
+Adaptive Spatial–Spectral HSI Denoising
+</div>
+
+<img src="https://via.placeholder.com/320x180" 
+     style="border-radius: 14px; width: 100%; margin-top: 6px;" />
+
+<p align="left">
+Deep learning–based hyperspectral image denoising with
+spatial–spectral attention and progressive refinement pipeline.
+</p>
+
+<a href="https://github.com/AL-FHA/HSI_denoising_pipeline">
+<strong>🔗 View Repository</strong>
+</a>
+
+</div>
+</td>
+
+
+
+<td width="33%" align="center">
+
+<div style="
+  border-radius: 18px;
+  padding: 10px;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(6px);
+">
+
+<div style="
+  background: rgba(0,0,0,0.65);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 14px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 8px;
+">
+Data-Driven ODE Discovery
+</div>
+
+<img src="https://via.placeholder.com/320x180" 
+     style="border-radius: 14px; width: 100%; margin-top: 6px;" />
+
+<p align="left">
+Learning governing dynamical system equations from noisy time-series
+data using sparse regression & scientific machine learning.
+</p>
+
+<a href="https://github.com/AL-FHA/data_driven_ODE_discovery">
+<strong>🔗 View Repository</strong>
+</a>
+
+</div>
+</td>
+
+
+
+<td width="33%" align="center">
+
+<div style="
+  border-radius: 18px;
+  padding: 10px;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(6px);
+">
+
+<div style="
+  background: rgba(0,0,0,0.65);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 14px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 8px;
+">
+Transformer Models for High-Dimensional Data
+</div>
+
+<img src="https://via.placeholder.com/320x180" 
+     style="border-radius: 14px; width: 100%; margin-top: 6px;" />
+
+<p align="left">
+Representation learning & robustness evaluation across imaging
+and temporal domains with interpretability focus.
+</p>
+
+<a href="#">
+<strong>🔗 View Repository</strong>
+</a>
+
+</div>
+</td>
+
+</tr>
 </table>
+
 
 
