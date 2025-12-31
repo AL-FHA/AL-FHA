@@ -45,7 +45,7 @@
    - Learning Dynamical System Equations from Observed Temporal Measurements. [Repo](https://github.com/AL-FHA/data_driven_ODE_discovery/) </li>
 
 
-# 🎯 Project Showcase
+# Project Showcase
 
 <table>
 <tr>
