@@ -39,7 +39,7 @@
   font-weight: 600;
   margin-bottom: 8px;
 ">
-Adaptive Spatial–Spectral HSI Denoising
+Adaptive Spatial-Spectral Denoising Of Hyperspectral Images
 </div>
 
 <img src="HSI.png" 
@@ -50,7 +50,7 @@ Deep learning–based hyperspectral image denoising with
 spatial–spectral attention and progressive refinement pipeline.
 </p>
 
-<a href="https://github.com/AL-FHA/HSI_denoising_pipeline">
+<a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
 <strong>🔗 View Repository</strong>
 </a>
 
@@ -78,18 +78,18 @@ spatial–spectral attention and progressive refinement pipeline.
   font-weight: 600;
   margin-bottom: 8px;
 ">
-Data-Driven ODE Discovery
+Learning Dynamical System Equations from Observed Temporal Measurements
 </div>
 
-<img src="https://via.placeholder.com/320x180" 
+<img src="ODE.png" 
      style="border-radius: 14px; width: 100%; margin-top: 6px;" />
 
 <p align="left">
 Learning governing dynamical system equations from noisy time-series
-data using sparse regression & scientific machine learning.
+data using sparse regression.
 </p>
 
-<a href="https://github.com/AL-FHA/data_driven_ODE_discovery">
+<a href="[https://github.com/AL-FHA/data_driven_ODE_discovery](https://github.com/AL-FHA/data-driven-ode-discovery)">
 <strong>🔗 View Repository</strong>
 </a>
 
@@ -117,18 +117,18 @@ data using sparse regression & scientific machine learning.
   font-weight: 600;
   margin-bottom: 8px;
 ">
-Transformer Models for High-Dimensional Data
+MRI-based Brain Tumor Detection using Covolutional Neural Networks
 </div>
 
-<img src="https://via.placeholder.com/320x180" 
+<img src="MRI.webp" 
      style="border-radius: 14px; width: 100%; margin-top: 6px;" />
 
 <p align="left">
-Representation learning & robustness evaluation across imaging
-and temporal domains with interpretability focus.
+MRI-based brain tumor detection system leveraging convolutional neural networks (CNNs) 
+   to distinguish tumor regions from MRI scans.
 </p>
 
-<a href="#">
+<a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">
 <strong>🔗 View Repository</strong>
 </a>
 
